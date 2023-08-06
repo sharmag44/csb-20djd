@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "https://sharmag44.github.io/csb-20djd/static/css/main.c3b207ca.chunk.css",
-    "main.js": "https://sharmag44.github.io/csb-20djd/static/js/main.282d9539.chunk.js",
-    "main.js.map": "https://sharmag44.github.io/csb-20djd/static/js/main.282d9539.chunk.js.map",
-    "runtime-main.js": "https://sharmag44.github.io/csb-20djd/static/js/runtime-main.c43c0865.js",
-    "runtime-main.js.map": "https://sharmag44.github.io/csb-20djd/static/js/runtime-main.c43c0865.js.map",
-    "static/css/2.f26e749f.chunk.css": "https://sharmag44.github.io/csb-20djd/static/css/2.f26e749f.chunk.css",
-    "static/js/2.03c8691f.chunk.js": "https://sharmag44.github.io/csb-20djd/static/js/2.03c8691f.chunk.js",
-    "static/js/2.03c8691f.chunk.js.map": "https://sharmag44.github.io/csb-20djd/static/js/2.03c8691f.chunk.js.map",
+    "main.js": "https://sharmag44.github.io/csb-20djd/static/js/main.617a3859.chunk.js",
+    "main.js.map": "https://sharmag44.github.io/csb-20djd/static/js/main.617a3859.chunk.js.map",
+    "runtime-main.js": "https://sharmag44.github.io/csb-20djd/static/js/runtime-main.176fb74b.js",
+    "runtime-main.js.map": "https://sharmag44.github.io/csb-20djd/static/js/runtime-main.176fb74b.js.map",
+    "static/css/2.3a251c85.chunk.css": "https://sharmag44.github.io/csb-20djd/static/css/2.3a251c85.chunk.css",
+    "static/js/2.80a1320d.chunk.js": "https://sharmag44.github.io/csb-20djd/static/js/2.80a1320d.chunk.js",
+    "static/js/2.80a1320d.chunk.js.map": "https://sharmag44.github.io/csb-20djd/static/js/2.80a1320d.chunk.js.map",
     "index.html": "https://sharmag44.github.io/csb-20djd/index.html",
-    "static/css/2.f26e749f.chunk.css.map": "https://sharmag44.github.io/csb-20djd/static/css/2.f26e749f.chunk.css.map",
+    "static/css/2.3a251c85.chunk.css.map": "https://sharmag44.github.io/csb-20djd/static/css/2.3a251c85.chunk.css.map",
     "static/css/main.c3b207ca.chunk.css.map": "https://sharmag44.github.io/csb-20djd/static/css/main.c3b207ca.chunk.css.map",
-    "static/js/2.03c8691f.chunk.js.LICENSE.txt": "https://sharmag44.github.io/csb-20djd/static/js/2.03c8691f.chunk.js.LICENSE.txt",
+    "static/js/2.80a1320d.chunk.js.LICENSE.txt": "https://sharmag44.github.io/csb-20djd/static/js/2.80a1320d.chunk.js.LICENSE.txt",
     "static/media/web-tutorial.a7725a14.png": "https://sharmag44.github.io/csb-20djd/static/media/web-tutorial.a7725a14.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c43c0865.js",
-    "static/css/2.f26e749f.chunk.css",
-    "static/js/2.03c8691f.chunk.js",
+    "static/js/runtime-main.176fb74b.js",
+    "static/css/2.3a251c85.chunk.css",
+    "static/js/2.80a1320d.chunk.js",
     "static/css/main.c3b207ca.chunk.css",
-    "static/js/main.282d9539.chunk.js"
+    "static/js/main.617a3859.chunk.js"
   ]
 }
